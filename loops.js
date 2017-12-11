@@ -9,7 +9,7 @@ function forLoop(array) {
 }
 
 function whileLoop(n) {
-n = 15;
+n = 86;
   while (n > 0) {
     console.log(--n)
     return 'done'
